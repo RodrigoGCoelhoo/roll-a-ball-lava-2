@@ -4,7 +4,7 @@ Jogo da disciplina de Jogos Digitais - Insper 2023.2
 
 ## Ithc.io
 
-https://rodrigocoelho.itch.io/roll-a-ball-lava-2
+https://rodrigocoelho.itch.io/roll-a-ball-lava
 
 ## Referências:
 
