@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# unity-roll-a-ball
-=======
-# Roll a ball Lava
+# Roll a ball Lava 2
 
 Jogo da disciplina de Jogos Digitais - Insper 2023.2
 
@@ -20,4 +17,3 @@ https://assetstore.unity.com/packages/2d/textures-materials/stylized-lava-materi
 https://assetstore.unity.com/packages/2d/textures-materials/nature/terrain-textures-pack-free-139542
 https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
 https://assetstore.unity.com/packages/2d/textures-materials/floors/hand-painted-stone-texture-73949
->>>>>>> 3c3d56d9 (COmmit)
